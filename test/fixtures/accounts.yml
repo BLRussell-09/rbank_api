@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  member: one
+  balance: 9.99
+  close_date: 2022-01-10
+  account_type: MyString
+
+two:
+  member: two
+  balance: 9.99
+  close_date: 2022-01-10
+  account_type: MyString
